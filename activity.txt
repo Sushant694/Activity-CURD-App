@@ -1,0 +1,6 @@
+Catan;Epic Gaming;Easy;4;3
+Pottery;Fun Studios;Easy;7;2
+Rowing;park;easy;5;0
+Taktoe;Home;Easy;5;0
+Tiktoe;Home;5;6;0
+Wine Making;Umpqua Valley;Complicated;9;1
